@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Shnake.cpp
+  console.cpp
+  field.cpp
+  player.cpp
+  ship.cpp
+  Generating Code...
+Shnake.obj : error LNK2019: unresolved external symbol "public: __thiscall animation::animation(int,int,char)" (??0animation@@QAE@HHD@Z) referenced in function _main
+Shnake.obj : error LNK2019: unresolved external symbol "public: void __thiscall animation::draw_animation(char (* const)[10])" (?draw_animation@animation@@QAEXQAY09D@Z) referenced in function _main
+G:\C++\Shnake\Debug\Shnake.exe : fatal error LNK1120: 2 unresolved externals
